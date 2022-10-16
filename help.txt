@@ -1,0 +1,15 @@
+GET APIS:-
+/api/products 
+/api/products/{id} 
+/api/products?cat_id={id} 
+/api/categories
+
+POST APIS:- 
+/api/categories
+/api/products
+
+PUT APIS:-
+/products/{id}
+
+PATCH APIS:-
+/products/{id}
